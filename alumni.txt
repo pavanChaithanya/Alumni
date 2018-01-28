@@ -1,0 +1,68 @@
+Notice board:
+	Alumni Portal can be used to keep track of all alumni’s of the campus.It also tracks and keeps a record of the academic interests and professional interests of the present studying students.
+It can be accessed by people who belong or belonged to the college(all the Staff,Faculty,Present Students and Alumni).They are allowed to access  the application through a secure login method.
+There would be a Notice Board page which would be set as a home page that dsiplays all the authorized postings posted by the alumni,faculty and students.An authorized post is any post which is related to academic or professional careers of the users.Each post can be detailly viewed when a user clicks on it.The Posts content will be displayed in two variable view patterns.User can choose any one from the below patterns.
+    • Popular:Displays the post with highest number of upvotes first and goes on in descending order of upvotes.
+    • Recent:Displays the posts according to the time when it is posted.(Latest posts first).
+
+Each post has four options when it is viewed.
+1.Upvote.
+2.Downvote.
+3.Comment.
+4.Report(Followed by Reason).
+
+1.Upvote:
+	If any user feels that the post is good and relevant he can upvote that particular post.
+2.Downvote:
+	If any user doesn’t like the post  but it is related to academic or professional interests,he can downvote the post.
+3.Comment:
+	Users can also post their queries or comments on a particular post.If any user want to communicate privately(if they don’t want to show up their name in the comments session or any serious detailed discussion)they can use the other social networking platforms of the post owner which would be available in the post owner’s profile.
+4.Report:
+	Any post which is not related to the Academic or Professional interest can be reported by users.Every report is followed by a mandatory reason section.If a post reaches a particular threshold value and if the reasons of the reports are valid,then the post gets deleted from the feed(database).The user who posted this irrelevant post shall be mandated to sign an agreement page on his next usage of the appication, warning him that his account would be blocked if he gets 2 more reported posts.
+
+	When the user reaches his limit of 3 reported posts,his account gets blocked as mentioned in the agreement.He has to consult the App Management Authority to inorder to activate his account.
+
+
+Login of a new alumni:
+The following are the details that are expected to give:
+Full name,
+Academic Qualifications,
+Contact details which includes your phone number,email,social media,linkedin profile,etc.But the alumni can decide if he/she wants all the users to see or only specific people to see.Even details can be edited such a way that only specific details can be seen.
+Academic interests.
+What a typical user can see in the alumni profile:
+He/She can see all the above mentioned details  except the contact details which the alumni can always change and the posts he/she posted into the notice board with complete details like the time of update and posting,no of upvotes and no of downvotes,etc.
+Login of new student:
+The following are the details that are expected to give:
+Full name,
+Current year and branch(Which will be updated every year),
+Contact details which can be seen by the alumni, which includes phone number,email,whatsapp,linkedin profile
+Interested in tags(check all his/her intersets in the given options),
+He/She can specify if their profile wants to be discovered by all the users or only the specific people.Even details can be edited such a way that only specific details can be seen.
+What a typical alumni can see:
+He can see all the above mentioned details specified.
+Editing of the details:
+All the above mentioned details can be edited by their respective profile owners.
+
+Each post is associated with tags such as which department the post is relating to and the context in which it is referring to and also users who are related to that particular post.
+
+The context tags are:
+1)Internship
+2)Broadcast(equivalent to stannounce)
+3)Jobs
+4)General interest
+5)Faculty
+6)Student
+
+The Department Tags are: 
+1)Computer Engineering
+2)Electronics Engineering
+3)Mechanical Engineering
+4)Design
+
+The tags basically imply the user’s interest and they can choose the tags in which they want to get updates.The user can select tags at the time of login and also can modify them later according to their interest.
+
+The tags can also be combined when uploading a post which involves multiple tags.The notice board can be customized according to the tags in which the user is interested.
+
+The search activity page present in the app that can be used to search for posts relating to a particular tag, people,department.
+
+The app will also have a side bar showing all the tags in categories such as department,students,etc.
