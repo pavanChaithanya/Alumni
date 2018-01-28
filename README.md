@@ -1,3 +1,0 @@
-# HelloWorld
-
-This is Sreecharan.
